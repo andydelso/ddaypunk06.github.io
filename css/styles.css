@@ -12,7 +12,17 @@
 	color: #C8C8C8
 }
 
-/*body {
+.giphy-embed {
+	pointer-events: none;
+}
+
+/* 
+Below are some settings suggested
+by rainyday.js might be nice for the
+banner
+*/
+
+/* body {
     overflow: hidden;
     height: 100%;
     margin: 0;
@@ -22,4 +32,4 @@
 img {
     width: 100%;
     height: 100%;
-}*/
+} */
