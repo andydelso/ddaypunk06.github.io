@@ -12,8 +12,24 @@
 	<meta name="Copyright" content="Copyright 2015 Andy Delso" />
 
 	<link rel="stylesheet" type="text/css" href="css/styles.css">
+
+	<!--RainyDay.js-->
+	<script>
+            function run() {
+                var image = document.getElementById('background');
+                image.onload = function() {
+                    var engine = new RainyDay({
+                        image: this
+                    });
+                    engine.rain([ [1, 2, 8000] ]);
+                    engine.rain([ [3, 3, 0.88], [5, 5, 0.9], [6, 2, 1] ], 100);
+                };
+                image.crossOrigin = 'anonymous';
+                image.src = 'http://i.imgur.com/N7ETzFO.jpg';
+            }
+        </script>
 </head>
-<body>
+<body onload="run();">
 	<header class="banner">
 		<h1 class="banner-name">Andy Delso</h1>
 		<h2 class="banner-byline">Experienced Software Destroyer, Aspiring Developer, and Tech Tinkerer</h2>
