@@ -1,20 +1,4 @@
-.banner {
-	background-color: #006666;
-}
-
-.banner-name {
-	text-align: center;
-	color: #C8C8C8
-}
-
-.banner-byline {
-	text-align: center;
-	color: #C8C8C8
-}
-
-.giphy-embed {
-	pointer-events: none;
-}
+/* html element styling */
 
 /* 
 Below are some settings suggested
@@ -33,3 +17,39 @@ img {
     width: 100%;
     height: 100%;
 } */
+
+/* class styling */
+.banner {
+	background-color: #006666;
+}
+
+.banner-name {
+	text-align: center;
+	color: #C8C8C8
+}
+
+.banner-byline {
+	text-align: center;
+	color: #C8C8C8
+}
+
+.giphy-embed {
+	pointer-events: none;
+}
+
+.important-links li {
+	display: inline;
+}
+
+.project li {
+	display: inline;
+}
+
+/* id styling */
+#twitter-link{}
+
+#github-link{}
+
+#linkedin-link{}
+
+#deviant-link{}
