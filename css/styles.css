@@ -42,13 +42,13 @@ body {
 }
 
 .banner-content {
-	font-size: 50px;
 	max-width: 1260px;
 	margin: 0 auto;
 	padding: 160px 0;
 }
 
 .banner-name {
+	font-size: 50px;
 	text-align: center;
 	text-shadow: 5px 5px 0 rgba(0,0,0,0.2);
 	color: #C8C8C8;
