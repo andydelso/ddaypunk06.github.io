@@ -21,6 +21,7 @@ img {
 /* class styling */
 .banner {
 	background-color: #006666;
+	overflow: hidden
 }
 
 .banner-name {
@@ -53,3 +54,21 @@ img {
 #linkedin-link{}
 
 #deviant-link{}
+
+/* bug generator */
+/*body {
+  background: #45B98A;
+  overflow: hidden;
+}*/
+
+.message {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  color: rgba(255, 255, 255, 0.5);
+  font-family: sans-serif;
+  font-size: 50px;
+  text-align: right;
+}
+
+.message::selection{ background: transparent; }
