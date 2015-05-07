@@ -19,6 +19,11 @@ img {
 } */
 
 /* class styling */
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #000000;
+}
 .banner {
 	background-color: #006666;
 	width: 100%;
@@ -33,9 +38,7 @@ img {
 	top: 25;
 	color: #C8C8C8;
 	font-family: sans-serif;
-	font-size: 50px;
 	width:800px;
-
 }
 
 .banner-byline {
@@ -43,8 +46,6 @@ img {
 	top: 50;
 	color: #C8C8C8;
 	font-family: sans-serif;
-	font-size: 40px;
-
 }
 
 .giphy-embed {
