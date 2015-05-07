@@ -54,14 +54,14 @@ body {
 	text-shadow: 5px 5px 0 rgba(0,0,0,0.2);
 	color: #C8C8C8;
 	font-family: sans-serif;
-	width:800px;
+	width: 800px;
 }
 
 .banner-byline {
-	position: absolute;
-	top: 50;
+	text-align: center;
 	color: #C8C8C8;
 	font-family: sans-serif;
+	width: 800px;
 }
 
 .giphy-embed {
