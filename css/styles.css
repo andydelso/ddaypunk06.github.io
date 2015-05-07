@@ -25,11 +25,13 @@ img {
 }
 
 .banner-name {
+	position: absolute;
 	text-align: center;
 	color: #C8C8C8
 }
 
 .banner-byline {
+	position: absolute;
 	text-align: center;
 	color: #C8C8C8
 }
@@ -64,10 +66,11 @@ img {
 .message {
   position: absolute;
   bottom: 0;
+  right: 0;
   width: 100%;
   color: rgba(255, 255, 255, 0.5);
   font-family: sans-serif;
-  font-size: 50px;
+  font-size: 25px;
   text-align: right;
 }
 
