@@ -33,6 +33,10 @@ body {
 	overflow: hidden
 }
 
+#c {
+	position: absolute;
+}
+
 .banner-content {
 	font-size: 50px;
 	max-width: 1260px;
