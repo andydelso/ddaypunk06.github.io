@@ -44,11 +44,11 @@ body {
 	width: 100%;
 	top: 0;
 	left: 0;
-	overflow: hidden
+	overflow: hidden;
+	font-family: 'Droid Sans', sans-serif;
 }
 
 .banner-content {
-	font-family: 'Droid Sans', sans-serif;
 	max-width: 1260px;
 	margin: 0 auto;
 	padding: 160px 0;
@@ -59,14 +59,12 @@ body {
 	text-align: center;
 	text-shadow: 5px 5px 0 rgba(0,0,0,0.2);
 	color: #C8C8C8;
-	font-family: sans-serif;
 }
 
 .banner-byline {
 	font-size: 20px;
 	text-align: center;
 	color: #C8C8C8;
-	font-family: sans-serif;
 }
 
 .message {
