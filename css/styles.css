@@ -87,14 +87,13 @@ body {
 
 .link-container ul li {
 	display: inline;
-	text-align: center;
-
+	position: center
 }
 
-.project-links li {
+/*.project-links li {
 	display: inline;
 	text-align: center;
-}
+}*/
 
 /* id styling */
 #twitter-link{}
