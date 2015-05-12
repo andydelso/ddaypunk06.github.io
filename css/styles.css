@@ -39,6 +39,7 @@ body {
 }
 
 .banner {
+	font-family: 'Droid Sans', sans-serif;
 	background-color: #006666;
 	width: 100%;
 	top: 0;
