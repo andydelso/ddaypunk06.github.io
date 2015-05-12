@@ -85,15 +85,16 @@ body {
 	text-align: center;
 }
 
-.link-container ul li {
+.important-links li {
 	display: inline;
 	position: center;
+	max-width: 100%;
 }
 
-/*.project-links li {
+.project-links li {
 	display: inline;
 	text-align: center;
-}*/
+}
 
 /* id styling */
 #twitter-link{}
