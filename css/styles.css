@@ -80,6 +80,10 @@ body {
 	pointer-events: none;
 }
 
+.link-container h3 {
+	color: #C8C8C8;
+}
+
 .important-links li {
 	display: inline;
 }
