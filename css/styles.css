@@ -25,6 +25,8 @@ body {
 	background-color: #000000;
 	display: block;
 	font-size: 16px;
+	text-align: center;
+	min-width: 256px
 }
 
 #c {
