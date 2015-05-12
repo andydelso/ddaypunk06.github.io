@@ -30,8 +30,8 @@ var pi_by_180 = Math.PI / 180,
 	W, H;
 
 function init() {
-	W = window.innerWidth;
-	H = window.innerHeight;
+	/*W = window.innerWidth;
+	H = window.innerHeight;*/
 	canvas = document.getElementById("c");
 	canvas.width = W;
 	canvas.height = H;
