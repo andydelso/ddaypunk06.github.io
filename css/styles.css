@@ -39,7 +39,6 @@ body {
 }
 
 .banner {
-	font-family: 'Droid Sans', sans-serif;
 	background-color: #006666;
 	width: 100%;
 	top: 0;
@@ -48,6 +47,7 @@ body {
 }
 
 .banner-content {
+	font-family: 'Droid Sans', sans-serif;
 	max-width: 1260px;
 	margin: 0 auto;
 	padding: 160px 0;
