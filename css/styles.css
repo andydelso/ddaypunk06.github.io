@@ -82,14 +82,18 @@ body {
 
 .profiles-header {
 	color: #C8C8C8;
+	text-align: center;
 }
 
 .important-links li {
 	display: inline;
+	text-align: center;
+
 }
 
 .project-links li {
 	display: inline;
+	text-align: center;
 }
 
 /* id styling */
