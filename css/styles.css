@@ -95,7 +95,7 @@ body {
 }
 
 .important-links li {
-	display: inline;
+	display: inline-block;
 }
 
 .project-links {
@@ -103,7 +103,7 @@ body {
 }
 
 .project-links li {
-	display: inline;
+	display: inline-block;
 }
 
 /* id styling */
