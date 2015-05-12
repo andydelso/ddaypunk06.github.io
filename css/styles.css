@@ -86,19 +86,19 @@ body {
 }
 
 .important-links {
-	position: center;
+	text-align: center;
 }
 
 .important-links li {
-	display: inline;
+	display: inline-block;
 }
 
 .project-links {
-	position: center;
+	text-align: center;
 }
 
 .project-links li {
-	display: inline;
+	display: inline-block;
 }
 
 /* id styling */
