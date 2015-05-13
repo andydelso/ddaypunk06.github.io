@@ -79,6 +79,7 @@ header.banner {
 }
 
 .projects {
+	padding-top: 10px;
 	width: 100%;
 	text-align: center;
 }
