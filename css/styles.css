@@ -54,20 +54,16 @@ canvas {
 	position:relative;
 }
 
-
-.count {
-  font-size: 25em;
-  bottom: auto;
-  top: 20%;
-  color: rgba(255, 255, 255, 0.2);
-}
-
-.count::selection, .message::selection {
+.message::selection {
   background: transparent;
 }
 
 .giphy-embed {
 	pointer-events: none;
+}
+
+.link-bar li {
+	display: inline-block;
 }
 
 
