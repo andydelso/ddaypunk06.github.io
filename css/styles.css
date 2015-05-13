@@ -18,7 +18,7 @@ canvas {
 
 #banner {
 	background-color: #45B98A;
-	position: relative;
+	position: absolute;
 	top: 0;
 	left: 0;
 	width: 100%;
