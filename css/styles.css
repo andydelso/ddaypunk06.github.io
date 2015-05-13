@@ -39,6 +39,8 @@ body {
 }
 
 .banner {
+	pointer-events: none;
+	position: absolute;
 	background-color: #006666;
 	width: 100%;
 	top: 0;
