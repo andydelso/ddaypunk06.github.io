@@ -4,7 +4,6 @@ body {
   background: #000000;
   overflow: hidden;
   font-family: 'Droid Sans', sans-serif;
-  color: #C8C8C8;
   font-size: 16px
 }
 
@@ -17,6 +16,7 @@ canvas {
 }
 
 #banner {
+	background-color: #C8C8C8;
 	position: relative;
 	top: 0;
 	left: 0;
