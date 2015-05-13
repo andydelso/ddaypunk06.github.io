@@ -67,6 +67,9 @@ header.banner {
 
 .message::selection{ background: transparent; }
 
+.page-content {
+	position: relative;
+}
 
 .profiles, .projects {
 	text-align: center;
