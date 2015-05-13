@@ -73,7 +73,12 @@ header.banner {
 	padding: 25px; 
 }
 
-.profiles, .projects {
+.profiles {
+	width: 100%;
+	text-align: center;
+}
+
+.projects {
 	width: 100%;
 	text-align: center;
 }
