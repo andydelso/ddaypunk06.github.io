@@ -29,6 +29,7 @@ canvas {
   font-family: sans-serif;
   font-size: 50px;
   text-align: center;
+  z-index: 2;
 }
 
 #name-subtext {
@@ -40,6 +41,7 @@ canvas {
   font-family: sans-serif;
   font-size: 20px;
   text-align: center;
+  z-index: 2;
 }
 
 #content {
