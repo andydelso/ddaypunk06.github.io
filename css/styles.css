@@ -32,7 +32,8 @@ canvas {
 
 .banner-name{
 	position: absolute;
-	bottom: 20px;
+	top:0;
+	left: 0;
 	font-family: 'Droid Sans', sans-serif;
  	text-align: center;
   	pointer-events: none;
