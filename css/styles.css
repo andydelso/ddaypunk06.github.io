@@ -3,6 +3,9 @@
 body {
   background: #45B98A;
   overflow: hidden;
+  font-family: 'Droid Sans', sans-serif;
+  color: #C8C8C8;
+  font-size: 16px
 }
 
 canvas {
@@ -62,6 +65,11 @@ canvas {
 	pointer-events: none;
 }
 
+.profiles, .projects {
+	position: relative;
+	
+}
+
 .link-bar li {
 	display: inline-block;
 }
@@ -78,7 +86,6 @@ body {
 	font-size: 16px;
 	text-align: center;
 	min-width: 256px;
-	font-family: 'Droid Sans', sans-serif;
 }
 
 canvas {
@@ -132,10 +139,6 @@ canvas {
 
 .message::selection{ background: transparent; }
 
-.profiles, .projects {
-	position: absolute;
-	z-index: 2;
-}
 
 .link-container h3 {
 	color: #C8C8C8;
