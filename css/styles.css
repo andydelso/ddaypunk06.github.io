@@ -67,24 +67,11 @@ canvas {
 .message::selection{ background: transparent; }
 
 
-.link-container h3 {
-	color: #C8C8C8;
+.profiles, .projects {
 	text-align: center;
 }
 
-.important-links {
-	text-align: center;
-}
-
-.important-links li {
-	display: inline-block;
-}
-
-.project-links {
-	text-align: center;
-}
-
-.project-links li {
+.link-bar li {
 	display: inline-block;
 }
 
