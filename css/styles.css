@@ -27,6 +27,10 @@ canvas {
   	z-index: -1 
 }
 
+header.banner {
+	height: 25%;
+}
+
 .banner {
 	background: #006666;
 }
