@@ -24,6 +24,7 @@ canvas {
 	width: 100%;
 	overflow: hidden;
 	z-index: 2;
+	padding: 12px;
 }
 
 #banner-name {
@@ -50,7 +51,7 @@ canvas {
 #content {
 	position:relative;
 	color: #C8C8C8;
-	padding-top: 20px;
+	padding-top: 12px;
 }
 #footer {
 	position:relative;
