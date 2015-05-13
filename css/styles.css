@@ -13,7 +13,7 @@ canvas {
 }
 
 #banner {
-	position: absolute;
+	
 	top: 0;
 	left: 0;
 	overflow: hidden;
@@ -21,6 +21,7 @@ canvas {
 
 #name-title {
   pointer-events: none;
+  position: absolute;
   width: 100%;
   color: rgba(255, 255, 255, 0.5);
   font-family: sans-serif;
@@ -30,6 +31,7 @@ canvas {
 
 #name-subtext {
   pointer-events: none;
+  position: absolute;
   bottom: 40px;
   width: 100%;
   color: rgba(255, 255, 255, 0.5);
