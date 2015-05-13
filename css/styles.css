@@ -13,7 +13,7 @@ canvas {
 }
 
 #banner {
-	
+
 	top: 0;
 	left: 0;
 	overflow: hidden;
@@ -49,6 +49,10 @@ canvas {
 
 .count::selection, .message::selection {
   background: transparent;
+}
+
+.giphy-embed {
+	pointer-events: none;
 }
 
 
@@ -116,10 +120,6 @@ canvas {
 }
 
 .message::selection{ background: transparent; }
-
-.giphy-embed {
-	pointer-events: none;
-}
 
 .profiles, .projects {
 	position: absolute;
