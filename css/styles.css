@@ -21,7 +21,7 @@ canvas {
 	z-index: 2;
 }
 
-#name-title {
+#banner-name {
   pointer-events: none;
   position: relative;
   width: 100%;
@@ -32,7 +32,7 @@ canvas {
   z-index: 2;
 }
 
-#name-subtext {
+#banner-subtext {
   pointer-events: none;
   position: relative;
   bottom: 40px;
