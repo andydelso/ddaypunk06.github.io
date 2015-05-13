@@ -69,25 +69,18 @@ canvas {
 	pointer-events: none;
 }
 
-.link-container {
-	text-align: center;
-}
-
-.link-container h3 {
+.profiles, .projects {
 	color: #C8C8C8;
+	font-size: 14px;
 	text-align: center;
 }
 
-.important-links {
+.important-links, .projectlinks {
 	text-align: center;
 }
 
 .important-links li {
 	display: inline-block;
-}
-
-.project-links {
-	text-align: center;
 }
 
 .project-links li {
