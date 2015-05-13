@@ -12,8 +12,8 @@ canvas {
   user-select: none;
 }
 
-.count,
-.message {
+#name-title,
+#name-subtext {
   pointer-events: none;
   position: absolute;
   bottom: 40px;
