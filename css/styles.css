@@ -28,7 +28,6 @@ canvas {
 
 #banner-name {
   pointer-events: none;
-  position: absolute;
   width: 100%;
   color: rgba(255, 255, 255, 0.5);
   font-family: sans-serif;
@@ -39,7 +38,6 @@ canvas {
 
 #banner-subtext {
   pointer-events: none;
-  position: absolute;
   width: 100%;
   color: rgba(255, 255, 255, 0.5);
   font-family: sans-serif;
