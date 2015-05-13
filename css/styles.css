@@ -18,6 +18,7 @@ canvas {
 	top: 0;
 	left: 0;
 	overflow: hidden;
+	z-index: 2;
 }
 
 #name-title {
