@@ -1,89 +1,10 @@
 /* html element styling */
 
-body {
-  background: #000000;
-  overflow: hidden;
-  font-family: 'Droid Sans', sans-serif;
-  color: #C8C8C8;
-  line-height: 24px;
-  font-size: 16px;
-  margin: 0;
-  padding: 0;
-}
-
-canvas {
-  -webkit-user-select: none;
-  -moz-user-select: none;
-  -o-user-select: none;
-  user-select: none;
-  z-index: -1;
-}
-
-#banner {
-	background-color: #45B98A;
-	position: relative;
-	top: 0;
-	left: 0;
-	width: 100%;
-	overflow: hidden;
-	z-index: 2;
-	padding: 12px;
-}
-
-#banner-name {
-  pointer-events: none;
-  width: 100%;
-  color: rgba(255, 255, 255);
-  text-shadow: 5px 5px 0 rgba(0,0,0,0.2);
-  font-family: sans-serif;
-  font-size: 50px;
-  text-align: center;
-  z-index: 2;
-}
-
-#banner-subtext {
-  pointer-events: none;
-  width: 100%;
-  color: rgba(255, 255, 255, 0.5);
-  font-family: sans-serif;
-  font-size: 35px;
-  text-align: center;
-  z-index: 2;
-}
-
-#content {
-	position:relative;
-	color: #C8C8C8;
-	padding-top: 12px;
-}
-#footer {
-	position:relative;
-}
-
-.message::selection {
-  background: transparent;
-}
-
-.giphy-embed {
-	pointer-events: none;
-}
-
-#profiles, #projects {
-	position: relative;
-	text-align: center;
-	margin: auto;
-	
-}
-
-.link-bar li {
-	display: inline-block;
-	margin: auto;
-}
-
 
 /* class styling */
-/*
+
 body {
+	font-family: 'Droid Sans', sans-serif;
 	margin: 0;
 	padding: 0;
 	background-color: #000000;
@@ -92,6 +13,8 @@ body {
 	font-size: 16px;
 	text-align: center;
 	min-width: 256px;
+	overflow: hidden;
+
 }
 
 canvas {
@@ -103,14 +26,7 @@ canvas {
 }
 
 .banner {
-	position: absolute;
-	background-color: #006666;
-	width: 100%;
-	top: 0;
-	left: 0;
-	overflow: hidden;
-	font-family: 'Droid Sans', sans-serif;
-	z-index: 2;
+	background: #006666;
 }
 
 .banner-content {
