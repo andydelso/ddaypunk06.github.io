@@ -28,6 +28,7 @@ canvas {
 }
 
 header.banner {
+	width: 100%;
 	height: 340px;
 	background: #006666;
 }
@@ -78,6 +79,10 @@ header.banner {
 
 .link-bar li {
 	display: inline-block;
+}
+
+#footer {
+	width: 100%;
 }
 
 /* id styling */
