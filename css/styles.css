@@ -50,6 +50,7 @@ canvas {
 #content {
 	position:relative;
 	color: #C8C8C8;
+	padding-top: 20px;
 }
 #footer {
 	position:relative;
