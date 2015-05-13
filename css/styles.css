@@ -30,21 +30,33 @@ canvas {
 	font-family: 'Droid Sans', sans-serif;
 } */
 
-/* .banner-content {
-	max-width: 1260px;
-	margin: 0 auto;
-	padding: 160px 0;
-} */
+.banner {
+	font-family: 'Droid Sans', sans-serif;
+ 	bottom: 40px;
+ 	text-align: center;
+ 	background-color: #006666;
 
-.banner-name, .banner-byline, .message {
+}
+
+.banner-name{
   	pointer-events: none;
   	position: absolute;
-  	bottom: 40px;
   	width: 100%;
   	color: rgba(255, 255, 255, 0.5);
-	font-family: 'Droid Sans', sans-serif;
   	font-size: 50px;
-  	text-align: center;
+}
+
+.banner-byline {
+	pointer-events: none;
+	position: absolute;
+	width: 100%;
+	font-size: 20px;
+	}
+
+.message {
+	pointer-events: none;
+	position: absolute;
+	width: 100%;
 }
 
 /* .banner-byline {
