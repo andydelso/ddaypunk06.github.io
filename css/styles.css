@@ -68,7 +68,8 @@ header.banner {
 .message::selection{ background: transparent; }
 
 .page-content {
-	position: relative;
+	width: 100%;
+	padding: 25px; 
 }
 
 .profiles, .projects {
