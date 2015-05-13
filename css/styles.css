@@ -85,7 +85,8 @@ canvas {
 	pointer-events: none;
 }
 
-.link-container {
+.profiles, .projects {
+	position: absolute;
 	z-index: 2;
 }
 
