@@ -30,16 +30,10 @@ canvas {
 	font-family: 'Droid Sans', sans-serif;
 } */
 
-.banner {
-	position: absolute;
-	top: 20px;
-	font-family: 'Droid Sans', sans-serif;
- 	bottom: 40px;
- 	text-align: center;
-
-}
-
 .banner-name{
+	position: absolute;
+	font-family: 'Droid Sans', sans-serif;
+ 	text-align: center;
   	pointer-events: none;
   	width: 100%;
   	color: rgba(255, 255, 255, 0.5);
@@ -47,12 +41,18 @@ canvas {
 }
 
 .banner-byline {
+	position: absolute;
+	font-family: 'Droid Sans', sans-serif;
+ 	text-align: center;
 	pointer-events: none;
 	width: 100%;
 	font-size: 20px;
 	}
 
 .message {
+	position: absolute;
+	font-family: 'Droid Sans', sans-serif;
+ 	text-align: center;
 	pointer-events: none;
 	width: 100%;
 }
