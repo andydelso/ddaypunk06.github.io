@@ -74,10 +74,12 @@ header.banner {
 }
 
 .profiles, .projects {
+	width: 100%;
 	text-align: center;
 }
 
 .link-bar li {
+	width: 100%;
 	display: inline-block;
 }
 
