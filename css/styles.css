@@ -39,7 +39,6 @@ body {
 }
 
 .banner {
-	pointer-events: none;
 	position: absolute;
 	background-color: #006666;
 	width: 100%;
@@ -57,6 +56,7 @@ body {
 }
 
 .banner-name {
+	pointer-events: none;
 	font-size: 50px;
 	text-align: center;
 	text-shadow: 5px 5px 0 rgba(0,0,0,0.2);
@@ -64,17 +64,19 @@ body {
 }
 
 .banner-byline {
+	pointer-events: none;
 	font-size: 20px;
 	text-align: center;
 	color: #C8C8C8;
 }
 
 .message {
-  width: 100%;
-  color: rgba(255, 255, 255, 0.3);
-  font-family: sans-serif;
-  font-size: 12px;
-  text-align: right;
+	pointer-events: none;
+	width: 100%;
+  	color: rgba(255, 255, 255, 0.3);
+  	font-family: sans-serif;
+  	font-size: 12px;
+  	text-align: right;
 }
 
 .message::selection{ background: transparent; }
