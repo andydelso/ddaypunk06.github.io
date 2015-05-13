@@ -65,7 +65,7 @@ canvas {
 	pointer-events: none;
 }
 
-.profiles, .projects {
+#profiles, #projects {
 	position: relative;
 	text-align: center;
 	
