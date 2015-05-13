@@ -66,6 +66,7 @@ canvas {
 
 .profiles, .projects {
 	position: relative;
+	text-align: center;
 	
 }
 
