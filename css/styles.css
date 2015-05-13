@@ -32,6 +32,7 @@ canvas {
 
 .banner-name{
 	position: absolute;
+	bottom: 20px;
 	font-family: 'Droid Sans', sans-serif;
  	text-align: center;
   	pointer-events: none;
@@ -42,6 +43,7 @@ canvas {
 
 .banner-byline {
 	position: absolute;
+	bottom: 40px;
 	font-family: 'Droid Sans', sans-serif;
  	text-align: center;
 	pointer-events: none;
@@ -51,8 +53,9 @@ canvas {
 
 .message {
 	position: absolute;
+	bottom: 80px;
 	font-family: 'Droid Sans', sans-serif;
- 	text-align: center;
+ 	text-align: right;
 	pointer-events: none;
 	width: 100%;
 }
