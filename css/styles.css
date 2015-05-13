@@ -42,7 +42,7 @@ canvas {
   	bottom: 40px;
   	width: 100%;
   	color: rgba(255, 255, 255, 0.5);
-  	font-family: sans-serif;
+	font-family: 'Droid Sans', sans-serif;
   	font-size: 50px;
   	text-align: center;
 }
@@ -72,6 +72,7 @@ canvas {
 .profiles, .projects {
 	color: #C8C8C8;
 	font-size: 14px;
+	font-family: 'Droid Sans', sans-serif;
 	text-align: center;
 }
 
