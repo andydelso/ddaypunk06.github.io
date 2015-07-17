@@ -1,59 +1,46 @@
 <!-- https://pages.github.com/ -->
 
 <!DOCTYPE html>
-<html>
+<html class="no-js" lang="">
 <head>
-	<title>Andy Delso | Tech Tinkerer</title>
 	<meta charset="utf-8">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<title>Andy Delso | Tech Tinkerer</title>
 	<meta name="description" content="Andy Delso is a QA Analyst from the suburbs of Chicago." />
 	<meta name="keywords" content="Andy Delso, Andrew Delso, quality assurance, QA, Chicago, Blog, coding, python, django, flask, Portfolio, music, guitar" />
 	<meta name="author" content="Andy Delso" />
 	<meta name="Language" content="en" />
 	<meta name="Copyright" content="Copyright 2015 Andy Delso" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="apple-touch-icon" href="apple-touch-icon.png">
 	<!-- ***Favicon implementation *** -->
 	<link rel="icon" type="image/png" href="/myicon.png">
 
-	<link rel="stylesheet" type="text/css" href="css/styles.css">
+	<!-- *** Boilerplate Styles *** -->
+	<link rel="stylesheet" href="css/normalize.css">
+	<link rel="stylesheet" href="css/main.css">
 
-	<link href='http://fonts.googleapis.com/css?family=Droid+Sans' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="css/styles.css">
 
-	<script src="js/rainyday.js"></script>
-	<script src="js/buggenerator.js"></script>
-
-
-
-
-	<!-- *** RainyDay.js implementation ***
-	<script>
-            function run() {
-                var image = document.getElementById('background');
-                image.onload = function() {
-                    var engine = new RainyDay({
-                        image: this
-                    });
-                    engine.rain([ [1, 2, 8000] ]);
-                    engine.rain([ [3, 3, 0.88], [5, 5, 0.9], [6, 2, 1] ], 100);
-                };
-                image.crossOrigin = 'anonymous';
-                image.src = 'http://i.imgur.com/N7ETzFO.jpg';
-            }
-        </script>
-        -->
+	<script src="js/vendor/modernizr-2.8.3.min.js"></script>
 
     <!-- *** Google Analytics *** -->
-
-	<script>
-  		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  		ga('create', 'UA-55865815-3', 'auto');
-  		ga('send', 'pageview');
-
-	</script>
+    <script>
+        (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+        function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+        e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+        e.src='https://www.google-analytics.com/analytics.js';
+        r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+        ga('create','UA-55865815-3','auto');ga('send','pageview');
+    </script>
 </head>
-<body > <!--onload="run();"-->
+<body > 
+	<!--onload="run();"-->
+
+	<!--[if lt IE 8]>
+        <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+	
 	<!--<img id="background" alt="background" src="" />-->
 	<header class="banner" height="25%" width="100%">
 			<!--<canvas id="c"></canvas>-->
@@ -111,5 +98,11 @@
 
 		</center>
 	</footer>
+
+	<!-- *** Boilerplate scripts *** -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.3.min.js"><\/script>')</script>
+    <script src="js/plugins.js"></script>
+    <script src="js/main.js"></script>
 </body>
 </html>
