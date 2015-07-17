@@ -3,11 +3,12 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Andrew Delso -- Lead Developer -- @TheDelso
 
 # THANKS
 
-    <name>
+    HTML5Boilerplate
+    Kushagra Gour @ http://kushagragour.in -- for bugs: http://codepen.io/chinchang/pen/waaRRJ
 
 # TECHNOLOGY COLOPHON
 
