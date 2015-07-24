@@ -95,7 +95,11 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
-
+.banner {
+    width: 100%;
+    height: 340px;
+    background: #006666;
+}
 
 
 
