@@ -145,6 +145,45 @@ body {
     padding: 10px 0;
 }
 
+nav ul {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    padding: 20px;
+    list-style: none;
+    font-weight: bold;
+}
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+h1 {
+    font-size: 3em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+
+.meta {
+    font-size: 1.5em;
+    line-height: 1.4em;
+    color: #333;
+}
+
+.post {
+  /* */
+}
+
+ul.posts { 
+    margin: 20px auto 40px; 
+    font-size: 1.5em;
+}
+
+ul.posts li {
+    list-style: none;
+}
+
+body {
+    font-size: 1em;
+    margin: 60px auto;
+}
 
 /* ==========================================================================
    Helper classes

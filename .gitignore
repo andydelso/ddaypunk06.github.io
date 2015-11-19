@@ -2,6 +2,4 @@
 *.sublime-workspace
 *.sublime-project
 *.bak
-
-# Remove this when it works
-Gemfile
+_site/
