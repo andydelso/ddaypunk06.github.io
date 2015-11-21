@@ -1,5 +1,64 @@
-name: GasLight Scribery
-markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
+title:            Andy Delso - Tech Tinkerer
+description:      All about Andy Delso... A tech tinkerer
+disqus_shortname: adminandydelsocom
+# Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
+# When testing locally leave blank or use http://localhost:4000
+url:              
+
+# Owner/author information
+owner:
+  name:           Andy Delso
+  avatar:         avatar.jpg
+  bio:            "Andy Delso is a QA Analyst from the suburbs of Chicago, currently testing software for SproutSocial."
+  email:          admin@andydelso.com
+  # Social networking links used in footer. Update and remove as you like.
+  twitter:        TheDelso
+  facebook:       
+  github:         ddaypunk06
+  stackexchange:  
+  linkedin:       andrew-delso
+  instagram:      thedelso
+  flickr:         
+  tumblr:         
+  # google plus id, include the '+', eg +mmistakes
+  google_plus:    +AndrewDelso
+
+# Analytics and webmaster tools stuff goes here
+google_analytics:   
+google_verify:      
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:         
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    America/Chicago
+future:      true
+highlighter:    true
+markdown:    kramdown
 gems:
   - jekyll-sitemap
+  - jekyll-paginate
+sass:
+  sass_dir: _sass
+  style: compressed
+
+permalink: /blog/:year/:month/:day/:title
+
+# Amount of posts to show on home page
+paginate: 5
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: true
+
+  coderay:
+    coderay_line_numbers: nil
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
