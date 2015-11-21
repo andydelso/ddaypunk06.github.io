@@ -1,6 +1,6 @@
 ---
 layout: page
-title: All about Andy
+title: All About Andy
 image:
   feature: abstract-4.jpg
   credit: dargadgetz
