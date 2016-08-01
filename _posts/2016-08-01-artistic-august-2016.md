@@ -6,6 +6,8 @@ date: "2016-08-01"
 
 Let me premise this with the fact that I believe I am a jack-of-all-trades-master-of-nothing kind of person. I like far too many things to focus on mastering one. Some of these include: guitar, programming, drawing, and writing. I don't see this as a particularly bad thing becuase I don't necessarily want to do any specific one professionally, as that might ruin the fun of it. Conversely, I believe it grants me extra dimensions as a person due to all of those interests.
 
+![sketching desk](https://c2.staticflickr.com/6/5265/5585565649_9024e700d2_n.jpg)
+
 I've been tossing around the idea of doing a sketching challenge the past few months since I started to get serious about it last February (2015). Lets be completely honest, that lasted like 3 months tops. I also stopped playing guitar last February as well. Seeing a trend here? My mother passed away that month and set off quite a long chain of events bringing me to today. I DO want to do all those things, and I know I will never be able to truly focus on one of those things at this point in my life.
 
 So instead, in June, I set off doing a photo-a-day challenge. Quite honestly, it was fun and easy to do. Feel free to scope some of them out here - link to gphoto folder? It showed me that I could focus on something simple like that. Unfortunately, I have an issue feeling I need to be inspired in order to draw anything worth a damn to anyone. I never once stopped to think, who should give a shit about what I draw anyways, or should I really give a shit what people say about my sketches? In all honesty, I shouldn't. I think its that fear that is keeping me from doing what I know I should be. My mother loved when I drew, and thats why I originally started it up again.
