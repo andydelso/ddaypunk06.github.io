@@ -19,6 +19,7 @@ Which leads me to now. I was talking with a friend most recently and she asked i
 I am not ready to just devote my time to one hobby. I like way too many things to devote 1 hour a day or more to a sketch (it can take that long, ask most sketch artists). So with that, I am just going to do a creative-a-day challenge for the month of August 2016.
 
 The Challenge includes the following:
+
 * Sketch something - posted on instagram
 * Write something (blog, lyrics, music, etc) - posted here
 * Stream something (with better commentary as I do it) twitch.tv/ddaypunk06
