@@ -8,7 +8,8 @@ Let me premise this with the fact that I believe I am a jack-of-all-trades-maste
 
 I like far too many things to focus on mastering any single one. Some of these include: music, programming, drawing, and writing. I don't see this as a particularly bad thing becuase I would rather not do any specific one professionally, as it might ruin the fun of said hobby. Conversely, I believe it grants me extra dimensions as a person due to these interests.
 
-![sketching desk](https://c2.staticflickr.com/6/5265/5585565649_9024e700d2_n.jpg){.center}
+{: .center}
+![sketching desk](https://c2.staticflickr.com/6/5265/5585565649_9024e700d2_n.jpg)
 
 I've been tossing around the idea of doing a sketching challenge the past few months since I started to get serious about it last February (2015). Lets be completely honest, that lasted like 3 months tops. I also stopped playing guitar last February as well. Seeing a trend here? My mother passed away that month and set off quite a long chain of events bringing me to today. I DO want to do all those things, and I know I will never be able to truly focus on one of those things at this point in my life.
 
