@@ -17,12 +17,14 @@ Which leads me to now. I was talking with a friend most recently and she asked i
 I am not ready to just devote my time to one hobby. I like way too many things to devote 1 hour a day or more to a sketch (it can take that long, ask most sketch artists). So with that, I am just going to do a creative-a-day challenge for the month of August 2016.
 
 The Challenge includes the following:
-- Sketch something - posted on instagram
-- Write something (blog, lyrics, music, etc) - posted here
-- Stream something (with better commentary as I do it) twitch.tv/ddaypunk06
-- Color a picture (either adult coloring book or for fun with my kids)
-- Write some code not related to work
+* Sketch something - posted on instagram
+* Write something (blog, lyrics, music, etc) - posted here
+* Stream something (with better commentary as I do it) twitch.tv/ddaypunk06
+* Color a picture (either adult coloring book or for fun with my kids)
+* Write some code not related to work
 
 I am open to suggestions to add to this list via twitter [@TheDelso](https://twitter.com/TheDelso) or on my Facebook [profile](https://www.facebook.com/TheDelso).
 
 As I wrote this fairly quickly over lunch at work, I am not going to edit it. Further blog entries will hopefully be planned better. Please let me know what you think!
+
+Looking forward to a highly enlightening and creative August with you all! If any want to join in let me know! I'd be happy to have friends get interested in this!
