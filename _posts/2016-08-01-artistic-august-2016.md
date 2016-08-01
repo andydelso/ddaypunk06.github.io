@@ -4,7 +4,9 @@ title: "Getting Creative This August 2016"
 date: "2016-08-01"
 ---
 
-Let me premise this with the fact that I believe I am a jack-of-all-trades-master-of-nothing kind of person. I like far too many things to focus on mastering one. Some of these include: guitar, programming, drawing, and writing. I don't see this as a particularly bad thing becuase I don't necessarily want to do any specific one professionally, as that might ruin the fun of it. Conversely, I believe it grants me extra dimensions as a person due to all of those interests.
+Let me premise this with the fact that I believe I am a jack-of-all-trades-master-of-nothing kind of person. I have also never blogged before, but if my memory serves me, I was a fair writer in highschool and college.
+
+I like far too many things to focus on mastering any single one. Some of these include: music, programming, drawing, and writing. I don't see this as a particularly bad thing becuase I would rather not do any specific one professionally, as it might ruin the fun of said hobby. Conversely, I believe it grants me extra dimensions as a person due to these interests.
 
 ![sketching desk](https://c2.staticflickr.com/6/5265/5585565649_9024e700d2_n.jpg)
 
