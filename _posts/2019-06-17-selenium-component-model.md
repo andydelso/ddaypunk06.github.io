@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How We Use a Component Model in Selenium to Increase Maintainability"
+title: "How We Use a Component Model in Selenium \nto Increase Maintainability"
 date: 2019-06-17
 published: true
 description: "A look inside how creating smaller classes, dubbed components, can help your Selenium framework become easier to digest, as well as more maintainable"
