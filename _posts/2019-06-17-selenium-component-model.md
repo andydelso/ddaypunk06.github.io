@@ -1,9 +1,7 @@
 ---
-title: How We Use a Component Model in Selenium to Increase Maintainability
-published: true
-description: A look inside how creating smaller classes, dubbed components, can help your Selenium framework become easier to digest, as well as more maintainable
-tags: selenium, automation, code quality, testing
-cover_image: https://thepracticaldev.s3.amazonaws.com/i/b0kx5zeozdv0jv6gdncy.jpg
+layout: post
+title: "How We Use a Component Model in Selenium to Increase Maintainability"
+date: 2019-06-17
 ---
 
   Over the past 9 years of [Sprout Social's](https://sproutsocial.com) existence,  our [Selenium](https://www.seleniumhq.org/) framework has grown into 100's of scenarios with as many page classes and factory containers. We've noticed it has become cumbersome to manage and as such, our QA Engineers thought the models in use needed a refresh. So in recent times, we adopted what we like to call the **Component Model**.
@@ -36,3 +34,5 @@ cover_image: https://thepracticaldev.s3.amazonaws.com/i/b0kx5zeozdv0jv6gdncy.jpg
   It has been a fun and interesting journey getting to this point through many refactors of our framework. However, it has proved time and time again to make our framework a bit easier to grok as well as maintain. We are already beginning to think of ways to improve upon this further such as with a wrapper class called *Selector* to help with formatting and making BaseComponent more friendly to work with. We look forward to providing more information on those in the future
 
   Have you or your organization used or are currently using something similar? Please share your experiences in the comments!
+
+  - powered by [Jekyll](http://jekyllrb.com)
