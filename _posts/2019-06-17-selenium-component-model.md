@@ -1,6 +1,6 @@
 ---
 title: How We Use a Component Model in Selenium to Increase Maintainability
-published: false
+published: true
 description: A look inside how creating smaller classes, dubbed components, can help your Selenium framework become easier to digest, as well as more maintainable
 tags: selenium, automation, code quality, testing
 cover_image: https://thepracticaldev.s3.amazonaws.com/i/b0kx5zeozdv0jv6gdncy.jpg
