@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How We Use a Component Model in Selenium\n to Increase Maintainability"
+title: "How We Use a Component Model in Selenium to Increase Maintainability"
 date: 2019-06-17
 ---
 
